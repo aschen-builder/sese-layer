@@ -1,0 +1,21 @@
+{
+    "token": "BOT_TOKEN_HERE",
+    "prefix": "sese-",
+    "users": [],
+    "systems": [
+        "sigma",
+        "tau",
+        "delta",
+        "epsilon",
+        "theta",
+        "lambda",
+        "gamma"
+    ],
+    "markets": [
+        {
+            "instance": "SE#",
+            "path": "SESmartEconomy.cfg",
+            "prefix": "gamma"
+        }
+    ]
+}

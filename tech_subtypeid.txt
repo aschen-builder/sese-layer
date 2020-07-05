@@ -1,0 +1,39 @@
+Tech2x
+TechA4x
+TechB4x
+TechA8x
+TechB8x
+
+TypeID => Component
+
+--------------------------------
+
+ECONOMY ITEMS:
+
+TID - ConsumableItem
+STID - Medkit
+
+TID - ConsumableItem
+STID - Powerkit
+
+TID - Datapad
+STID - Datapad
+
+--------------------------------
+
+VANILLA ITEMS:
+
+TID - ConsumableItem
+STID - ClangCola
+
+TID - ConsumableItem
+STID - CosmicCoffee
+
+TID - Ore
+STID - Organic
+
+TID - Ore
+STID - Scrap
+
+TID - TreeObject
+STID - PineTree
